@@ -659,7 +659,7 @@
   "tr": "터미널로 복사"
  },{
   "en": "Count",
-  "tr": "숫자"
+  "tr": "갯수"
  },{
   "en": "Create Directory",
   "tr": "디렉토리 생성"
@@ -1001,10 +1001,10 @@
   "tr": "흐름 제어"
  },{
   "en": "Focus Mode",
-  "tr": "포커스 모드"
+  "tr": "집중 모드"
  },{
   "en": "Focus Mode Settings",
-  "tr": "포커스 모드 설정"
+  "tr": "집중 모드 설정"
  },{
   "en": "Fold",
   "tr": "접기"
@@ -2555,7 +2555,7 @@
   "tr": "탭에 탭 번호 표시"
  },{
   "en": "Show this dialog when focus mode starts",
-  "tr": "포커스 모드가 시작될 때 이 대화 상자 표시"
+  "tr": "집중 모드가 시작될 때 이 대화 상자 표시"
  },{
   "en": "Show wrap symbols",
   "tr": "줄 바꿈 기호 표시"
