@@ -185,10 +185,10 @@
   "tr": "라인 배경색 변경"
  },{
   "en": "Always On Top",
-  "tr": "항상 상단"
+  "tr": "항상 위"
  },{
   "en": "Always on top",
-  "tr": "항상 상단에"
+  "tr": "항상 위"
  },{
   "en": "An error occurred when attempting to read from the %1 process.",
   "tr": "%1 프로세스에서 읽으려고 시도하는 동안 오류가 발생했습니다."
