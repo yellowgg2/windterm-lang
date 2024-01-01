@@ -65,13 +65,13 @@
   "tr": "(%1)을(를) 눌렀습니다. 추가 키를 기다리는 중"
  },{
   "en": "1 Char",
-  "tr": "1자"
+  "tr": "한글자"
  },{
   "en": "16 Columns",
   "tr": "16열"
  },{
   "en": "2 Chars",
-  "tr": "2자"
+  "tr": "두글자"
  },{
   "en": "24 Columns",
   "tr": "24열"
@@ -80,10 +80,10 @@
   "tr": "32열"
  },{
   "en": "4 Chars",
-  "tr": "4자"
+  "tr": "네글자"
  },{
   "en": "8 Chars",
-  "tr": "8자"
+  "tr": "여덟글자"
  },{
   "en": "8 Columns",
   "tr": "8열"
@@ -296,7 +296,7 @@
   "tr": "다음에 자동 로그인"
  },{
   "en": "Automatic",
-  "tr": "자동적 인"
+  "tr": "자동"
  },{
   "en": "Automatic authentication methods",
   "tr": "자동 인증 방법"
@@ -1307,7 +1307,7 @@
   "tr": "키 재교환"
  },{
   "en": "Keyboard",
-  "tr": "건반"
+  "tr": "키보드"
  },{
   "en": "Keyboard Interactive",
   "tr": "키보드 인터랙티브"
@@ -1469,7 +1469,7 @@
   "tr": "로그 유형"
  },{
   "en": "Logging",
-  "tr": "벌채 반출"
+  "tr": "로깅"
  },{
   "en": "Login",
   "tr": "로그인"
@@ -1751,7 +1751,7 @@
   "tr": "지금"
  },{
   "en": "Nowhere",
-  "tr": "아무데도"
+  "tr": "없음"
  },{
   "en": "Octal",
   "tr": "8진수"
@@ -3226,13 +3226,13 @@
   "tr": ""
  },{
   "en": "Allow",
-  "tr": ""
+  "tr": "허용"
  },{
   "en": "Application Directory",
   "tr": ""
  },{
   "en": "Ask",
-  "tr": ""
+  "tr": "묻기"
  },{
   "en": "Auto Wrap Mode (DECAWM)",
   "tr": ""
@@ -3293,7 +3293,7 @@
   "en": "Fixterm format"
  },{
   "en": "Forbit",
-  "tr": ""
+  "tr": "금지"
  },{
   "en": "Format"
  },{
@@ -3417,10 +3417,10 @@
   "tr": ""
  },{
   "en": "When the remote wants to overwrite the clipboard",
-  "tr": ""
+  "tr": "원격에서 클립보드를 읽으려고 할 때"
  },{
   "en": "When the remote wants to read the clipboard",
-  "tr": ""
+  "tr": "원격에서 클립보드에 쓰려고 할 때"
  },{
   "en": "Window %1×%2"
  },{
