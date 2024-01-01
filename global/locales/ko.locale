@@ -488,7 +488,7 @@
   "tr": "암호 주문"
  },{
   "en": "Clear",
-  "tr": "분명한"
+  "tr": "삭제"
  },{
   "en": "Clear All",
   "tr": "모두 지우기"
@@ -1319,7 +1319,7 @@
   "tr": "모두 다 아는"
  },{
   "en": "Label",
-  "tr": "상표"
+  "tr": "라벨"
  },{
   "en": "Language",
   "tr": "언어"
@@ -2762,10 +2762,10 @@
   "tr": "기간"
  },{
   "en": "Terminal",
-  "tr": "단말기"
+  "tr": "터미널"
  },{
   "en": "terminal",
-  "tr": "단말기"
+  "tr": "터미널"
  },{
   "en": "Terminal Settings",
   "tr": "터미널 설정"
@@ -3556,7 +3556,7 @@
   "tr": ""
  },{
   "en": "Capacity",
-  "tr": ""
+  "tr": "용량"
  },{
   "en": "Characters preceded by ESC",
   "tr": ""
@@ -3610,19 +3610,19 @@
   "tr": ""
  },{
   "en": "Days to keep history",
-  "tr": ""
+  "tr": "보관 일수"
  },{
   "en": "Default Session Settings",
-  "tr": ""
+  "tr": "기본 세션 셋팅"
  },{
   "en": "Duplicate Session",
-  "tr": ""
+  "tr": "세션 복제"
  },{
   "en": "Duplicate SSH Channel",
-  "tr": ""
+  "tr": "SSH 체널 복제"
  },{
   "en": "Edit Default Settings",
-  "tr": ""
+  "tr": "기본 설정 수정"
  },{
   "en": "Enable auto completion",
   "tr": "자동완성 활성화"
@@ -3640,7 +3640,7 @@
   "tr": ""
  },{
   "en": "History size",
-  "tr": ""
+  "tr": "히스토리 갯수"
  },{
   "en": "Http proxy",
   "tr": ""
@@ -3709,10 +3709,10 @@
   "tr": ""
  },{
   "en": "Save command history to disk",
-  "tr": ""
+  "tr": "디스크에 히스토리 저장"
  },{
   "en": "Saved command history",
-  "tr": ""
+  "tr": "히스토리 저장"
  },{
   "en": "Session \"%1\" is missing or corrupt.",
   "tr": ""
@@ -3727,7 +3727,7 @@
   "tr": ""
  },{
   "en": "Storage",
-  "tr": ""
+  "tr": "저장"
  },{
   "en": "System proxy",
   "tr": ""
