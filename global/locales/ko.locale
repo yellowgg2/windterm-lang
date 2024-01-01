@@ -899,13 +899,13 @@
   "tr": "종료"
  },{
   "en": "Expand",
-  "tr": "확장하다"
+  "tr": "확장"
  },{
   "en": "Expand Snippet",
   "tr": "스니펫 확장"
  },{
   "en": "Explorer",
-  "tr": "탐침"
+  "tr": "익스플로러"
  },{
   "en": "External Tools",
   "tr": "외부 도구"
@@ -989,13 +989,13 @@
   "tr": "이전 선택 찾기"
  },{
   "en": "Fingerprint",
-  "tr": "지문"
+  "tr": "개인인증"
  },{
   "en": "First nine tabs",
   "tr": "처음 9개 탭"
  },{
   "en": "Float",
-  "tr": "부동 소수점"
+  "tr": "띄우기"
  },{
   "en": "Flow Control",
   "tr": "흐름 제어"
@@ -2690,16 +2690,16 @@
   "tr": "기호"
  },{
   "en": "Sync channel",
-  "tr": "채널 동기화"
+  "tr": "동시 채널"
  },{
   "en": "Sync Edit",
-  "tr": "동기화 편집"
+  "tr": "동시 편집"
  },{
   "en": "Sync Input",
-  "tr": "동기화 입력"
+  "tr": "동시 입력"
  },{
   "en": "Synchronizing input in channel %1",
-  "tr": "채널% 1의입력동기화중"
+  "tr": "채널 %1 동시 입력"
  },{
   "en": "Syntax Schemes",
   "tr": "구문 체계"
@@ -2891,10 +2891,10 @@
   "tr": "후행 위치"
  },{
   "en": "Transfer",
-  "tr": "옮기다"
+  "tr": "전송"
  },{
   "en": "Transfer Bar",
-  "tr": "트랜스퍼 바"
+  "tr": "전송 바"
  },{
   "en": "Transfer Binary",
   "tr": "바이너리 전송"
