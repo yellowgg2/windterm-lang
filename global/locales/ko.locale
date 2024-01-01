@@ -350,19 +350,19 @@
   "tr": "검은 색"
  },{
   "en": "Blink",
-  "tr": "깜박임"
+  "tr": "깜빡임"
  },{
   "en": "blinking block",
-  "tr": "깜박이는 블록"
+  "tr": "깜빡이는 블록"
  },{
   "en": "blinking line",
-  "tr": "깜박이는 선"
+  "tr": "깜빡이는 선"
  },{
   "en": "blinking rectangle",
-  "tr": "깜박이는 직사각형"
+  "tr": "깜빡이는 직사각형"
  },{
   "en": "blinking underLine",
-  "tr": "깜박이는 밑줄"
+  "tr": "깜빡이는 밑줄"
  },{
   "en": "Block",
   "tr": "블록"
@@ -428,7 +428,7 @@
   "tr": "선택 취소"
  },{
   "en": "Caret",
-  "tr": "탈자 부호"
+  "tr": "캐럿"
  },{
   "en": "Caret Style",
   "tr": "캐럿 스타일"
@@ -1142,7 +1142,7 @@
   "tr": "텍스트 숨기기"
  },{
   "en": "Highlight",
-  "tr": "가장 밝은 부분"
+  "tr": "하이라이트"
  },{
   "en": "Highlight Caret Line",
   "tr": "하이라이트 캐럿 라인"
@@ -2045,7 +2045,7 @@
   "tr": "규약"
  },{
   "en": "Proxy",
-  "tr": "대리"
+  "tr": "프록시"
  },{
   "en": "Proxy Host",
   "tr": "프록시 호스트"
@@ -3110,7 +3110,7 @@
   "tr": "작업 디렉토리"
  },{
   "en": "Wrap",
-  "tr": "포장하다"
+  "tr": "감싸기"
  },{
   "en": "Wrap by character",
   "tr": "문자로 줄바꿈"
@@ -3119,10 +3119,10 @@
   "tr": "단어로 감싸기"
  },{
   "en": "Wrap column",
-  "tr": "랩 컬럼"
+  "tr": "열 감싸기"
  },{
   "en": "Wrap mode",
-  "tr": "랩 모드"
+  "tr": "감싸기 모드"
  },{
   "en": "Wrap Symbols",
   "tr": "줄 바꿈 기호"
@@ -3625,7 +3625,7 @@
   "tr": ""
  },{
   "en": "Enable auto completion",
-  "tr": ""
+  "tr": "자동완성 활성화"
  },{
   "en": "Failed to remove command history, please try again later.",
   "tr": ""
