@@ -2237,19 +2237,19 @@
   "tr": "오른쪽 그룹"
  },{
   "en": "Roll the mouse wheel to scroll",
-  "tr": "스크롤하려면 마우스 휠을 굴립니다."
+  "tr": "스크롤하려면 마우스 휠을 돌립니다."
  },{
   "en": "Rows",
   "tr": "행"
  },{
   "en": "Royal Blue",
-  "tr": "로얄 블루"
+  "tr": ""
  },{
   "en": "Run Tool",
   "tr": "도구 실행"
  },{
   "en": "Save",
-  "tr": "구하다"
+  "tr": "저장"
  },{
   "en": "Save All",
   "tr": "모두 저장"
@@ -2297,7 +2297,7 @@
   "tr": "찾기"
  },{
   "en": "Search engine",
-  "tr": "검색 엔진)"
+  "tr": "검색 엔진"
  },{
   "en": "Search Engine",
   "tr": "검색 엔진"
@@ -3550,9 +3550,9 @@
   "tr": ""
  },{
   "en": "Beep using the PC speaker",
-  "tr": ""
+  "tr": "PC 스피커로 비프음"
  },{
-  "en": "Bell styles",
+  "en": "소리 스타일",
   "tr": ""
  },{
   "en": "Capacity",
@@ -3664,28 +3664,28 @@
   "tr": ""
  },{
   "en": "Menu",
-  "tr": ""
+  "tr": "메뉴"
  },{
   "en": "Meta modifier key sends",
   "tr": ""
  },{
   "en": "Move Down",
-  "tr": ""
+  "tr": "아래로"
  },{
   "en": "Move Up",
-  "tr": ""
+  "tr": "위로"
  },{
   "en": "Mute",
-  "tr": ""
+  "tr": "무음"
  },{
   "en": "No proxy",
-  "tr": ""
+  "tr": "프록시 없음"
  },{
   "en": "Play the custom sound",
-  "tr": ""
+  "tr": "사용자 소리 재생"
  },{
   "en": "Preselect the best match",
-  "tr": ""
+  "tr": "최적일치 미리선택"
  },{
   "en": "Preview of replace %1 with %3 in \"%2\"",
   "tr": ""
@@ -3694,7 +3694,7 @@
   "tr": ""
  },{
   "en": "Reconnect",
-  "tr": ""
+  "tr": "재접속"
  },{
   "en": "Remember this step",
   "tr": ""
@@ -3706,7 +3706,7 @@
   "tr": ""
  },{
   "en": "rows",
-  "tr": ""
+  "tr": "행"
  },{
   "en": "Save command history to disk",
   "tr": "디스크에 히스토리 저장"
