@@ -593,7 +593,7 @@
   "tr": "비밀번호 확인"
  },{
   "en": "Connect",
-  "tr": "연결하다"
+  "tr": "연결하기"
  },{
   "en": "Connection",
   "tr": "연결"
@@ -680,7 +680,7 @@
   "tr": "현재 세션"
  },{
   "en": "Custom",
-  "tr": "관습"
+  "tr": "변경"
  },{
   "en": "Custom Opacity",
   "tr": "사용자 정의 불투명도"
@@ -1616,7 +1616,7 @@
   "tr": "절대"
  },{
   "en": "New directory",
-  "tr": "새 디렉토리"
+  "tr": "새 폴더"
  },{
   "en": "New File",
   "tr": "새 파일"
@@ -3272,7 +3272,7 @@
   "tr": ""
  },{
   "en": "Description",
-  "tr": ""
+  "tr": "설명"
  },{
   "en": "Do you want to remove the selected sessions and binding tunnels?",
   "tr": ""
